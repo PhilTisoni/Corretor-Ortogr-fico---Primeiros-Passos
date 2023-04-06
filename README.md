@@ -25,8 +25,8 @@ https://www.linkedin.com/in/phelipetisoni
 
 # Agradecimentos
 
-- [Professor Frank](https://www.linkedin.com/in/frankalcantara/ "Linkedin Frank Alcântara)
-- [Professor Charles](https://www.linkedin.com/in/charles-fung-52684521/ "Linkedin Charles Fung)
+- [Professor Frank](https://www.linkedin.com/in/frankalcantara/ "Linkedin Frank Alcântara")
+- [Professor Charles](https://www.linkedin.com/in/charles-fung-52684521/ "Linkedin Charles Fung")
 - [Uninter](https://www.uninter.com "Site Uninter")
 - [Alura](https://www.alura.com.br "Site Alura")
 
