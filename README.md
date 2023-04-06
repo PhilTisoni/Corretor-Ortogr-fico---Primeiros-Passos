@@ -6,7 +6,7 @@ Esse projeto foi realizado em 2018 pelo grupo de pesquisa **NúPeDia** da [Unint
 
 # Tecnologias Utilizadas
 - Python
-- Jupyter
+- Jupyter Notebook
 
 # Como executar o projeto
 ```bash
