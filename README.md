@@ -1,4 +1,4 @@
-# Corretor Ortográficos
+# Corretor Ortográfico
 
 # Sobre o Projeto
 
