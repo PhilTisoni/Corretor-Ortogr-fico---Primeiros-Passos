@@ -4,7 +4,7 @@ Projeto de pesquisa sobre Processamento de Linguagem Natural.
 
 # Sobre o Projeto
 
-Esse projeto foi realizado em 2018 pelo grupo de pesquisa **NúPeDia** da Uninter, tendo como objetivo o desenolvimento de um [Corretor Ortográfico](https://notebooks.azure.com/anonxhazeq/libraries/intelartificial-aulas?page=2 "Corretor Ortográfico NúPeDia") através do **Reconhecimento de Entidades em Textos no Idimoa Português como Falado no Brasil**. 
+Esse projeto foi realizado em 2018 pelo grupo de pesquisa **NúPeDia** da Uninter, tendo como objetivo o desenolvimento de um [Corretor Ortográfico](https://notebooks.azure.com/anon-xhazeq/libraries/intelartificial-aulas?page=2 "Corretor Ortográfico NúPeDia") através do **Reconhecimento de Entidades em Textos no Idimoa Português como Falado no Brasil**. 
 
 Esse documento registra os relatórios bibliográficos e a tradução do **Capítulo 5** do livro [Natural Language Processing With Python](http://www.nltk.org/book "Livro Natural Language Processing With Python"), abordando os primeiros passos sobre a classificação de palavras.
 
