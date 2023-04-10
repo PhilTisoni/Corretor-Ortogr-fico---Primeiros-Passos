@@ -20,7 +20,7 @@ Esse documento registra os relatórios bibliográficos e a tradução do **Capí
 git clone https://github.com/PhilTisoni/Corretor-Ortografico.git
 
 # executar o projeto
-./Corretor spring-boot:run
+./Corretor-Ortografico spring-boot:run
 ```
 
 # Autor
