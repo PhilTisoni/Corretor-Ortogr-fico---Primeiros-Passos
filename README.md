@@ -17,7 +17,7 @@ Esse documento registra os relatórios bibliográficos e a tradução do **Capí
 # Como executar o projeto
 ```bash
 # clonar repositório
-git clone https://github.com/PhilTisoni/Corretor
+git clone https://github.com/PhilTisoni/Corretor-Ortografico.git
 
 # executar o projeto
 ./Corretor spring-boot:run
