@@ -11,6 +11,8 @@ Esse documento registra os relatórios bibliográficos e a tradução do **Capí
 # Tecnologias Utilizadas
 - Python
 - Jupyter Notebook
+- Google Colab Notebooks
+- Microsoft Azure
 
 # Como executar o projeto
 ```bash
