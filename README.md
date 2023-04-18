@@ -18,7 +18,7 @@ Esse documento registra os relatórios bibliográficos e a tradução do **Capí
 ```bash
 # clonar repositório
 git clone https://github.com/PhilTisoni/Corretor-Ortografico.git
-
+```
 # Autor
 
 Phelipe Augusto Tisoni
