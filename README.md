@@ -24,7 +24,7 @@ Esse documento registra os relatórios bibliográficos e a tradução do **Capí
 ```bash
 git clone https://github.com/PhilTisoni/NuPeDIA.EstudosPandas.git
 ```
-Após clonar o projeto, adicione o código em seu Arduino conectado aos componentes eletrônicos.
+Após clonar o projeto, abra o arquivo .jpynb utilizando o Jupyter Notebook.
 
 # Autor
 
